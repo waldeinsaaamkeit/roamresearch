@@ -1,0 +1,14 @@
+- I: The Prepration
+	- NOTEBOOKS
+		- “Studies suggest that your concentration suffers simply by having your smartphone in the room with you, even if it’s silent or powered off”
+		- “Our notebook serves as a mental sanctuary where we are free to think, reflect, process, and focus”
+		- “The power of the Bullet Journal is that it becomes whatever you need it to be, no matter what season of life you’re in.”
+		- “In school, it can serve for your class notes. At work, it can be a tool to organize your projects. At home, it can help you set and track your goals.”
+		- “Your notebook greets you each morning with the pure, blank slate of an empty page. It serves as a small reminder that the day is as yet unwritten.”
+	- HANDWRITING
+		- “The complex tactile movement of writing by hand stimulates our mind more effectively than typing. It activates multiple regions of the brain simultaneously, thereby imprinting what we learn on a deeper level. As a result, we retain information longer than we would by tapping it into an app.”
+		- “When we put pen to paper, we’re not just turning on the lights; we’re also turning up the heat. Writing by hand helps us think and feel simultaneously.”
+		- “Studies suggest that the act of writing keeps our minds sharper for longer.”
+		- “The long way is the short way. True efficiency is not about speed; it’s about spending more time with what truly matters”
+- II: The System
+	-
