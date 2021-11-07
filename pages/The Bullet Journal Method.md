@@ -14,5 +14,24 @@
 		- “The long way is the short way. True efficiency is not about speed; it’s about spending more time with what truly matters”
 - II: The System
 	- THE SYSTEM
+		- “Y our Bullet Journal can be your to-do list, journal, planner, sketchbook, or all of the above, all in one place.”
+		- “As you evolve, so will the function and structure of your Bullet Journal.”
+		- “If you’re following along in sequence, here’s where you’ll learn how to set up your own Bullet Journal and migrate the content from your Mental Inventory.”
+		- “If you’re new to the Bullet Journal, I suggest reading through all the chapters in this part before setting pen to paper.”
+	- RAPID LOGGING
+		- “Our experiences—both sweet and sour—are lessons. We honor these lessons by writing them down so we can study them and see what they have to teach us.
+		- “Journaling provides a powerful way of facilitating this path of self-learning. The problem with traditional journaling is that it is loosely structured and time-intensive. Rapid Logging leverages the best aspects of journaling by stripping away everything that’s not essential. It’s the language the Bullet Journal is written in.”
+		- “Rapid Logging will help you efficiently capture your life as it happens so that you may begin to study it.”
+		- “Be it at home, school, or the workplace, Rapid Logging will help you organize the dizzying array of things you have to contend with on a daily basis.”
+		- Traditional vs Rapid Logging
+	- TOPICS AND PAGINATION
+		- “Topics actually serve three functions:
+			- “They identify and describe content“
+			- “They serve as an opportunity for you to clarify your intention.”
+			- “They set the agenda for the content.”
+		- “Giving your page its Topic provides that opportunity to pause. What will you capture in this space? What’s its purpose?”
+		- “Once you’ve defined your Topic, write it at the top of the page. Now you’ve laid the foundation for what you want to build, but you can’t locate a building without its address. That address in your Bullet Journal is the page number, so be sure to add them as you go.”
+		- “The only time we don’t use a descriptive Topic is for our Daily Log (this page ). It’s a catchall for our thoughts, so the daily Topic is simply the date, formatted as month/date/day.”
+	-
 		-
 	-
