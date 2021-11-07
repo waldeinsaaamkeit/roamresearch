@@ -19,7 +19,7 @@
 			- “The long way is the short way. True efficiency is not about speed; it’s about spending more time with what truly matters”
 - II: The System
 	- THE SYSTEM
-		- “Y our Bullet Journal can be your to-do list, journal, planner, sketchbook, or all of the above, all in one place.”
+		- “Your Bullet Journal can be your to-do list, journal, planner, sketchbook, or all of the above, all in one place.”
 		- “As you evolve, so will the function and structure of your Bullet Journal.”
 		- “If you’re following along in sequence, here’s where you’ll learn how to set up your own Bullet Journal and migrate the content from your Mental Inventory.”
 		- “If you’re new to the Bullet Journal, I suggest reading through all the chapters in this part before setting pen to paper.”
