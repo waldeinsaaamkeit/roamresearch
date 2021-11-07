@@ -1,7 +1,9 @@
 - I: The Prepration
 	- NOTEBOOKS
 		- “Studies suggest that your concentration suffers simply by having your smartphone in the room with you, even if it’s silent or powered off”
+		- “Sitting down with your notebook grants you that precious luxury. It provides a personal space, free from distraction, where you can get to know yourself better.”
 		- “Our notebook serves as a mental sanctuary where we are free to think, reflect, process, and focus”
+		- “The blank pages of your notebook offer a safe playground for your mind, where you’re completely free to express yourself without judgment or expectation.”
 		- “The power of the Bullet Journal is that it becomes whatever you need it to be, no matter what season of life you’re in.”
 		- “In school, it can serve for your class notes. At work, it can be a tool to organize your projects. At home, it can help you set and track your goals.”
 		- “Your notebook greets you each morning with the pure, blank slate of an empty page. It serves as a small reminder that the day is as yet unwritten.”
@@ -11,4 +13,6 @@
 		- “Studies suggest that the act of writing keeps our minds sharper for longer.”
 		- “The long way is the short way. True efficiency is not about speed; it’s about spending more time with what truly matters”
 - II: The System
+	- THE SYSTEM
+		-
 	-
