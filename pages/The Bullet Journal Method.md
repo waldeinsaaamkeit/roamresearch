@@ -32,6 +32,11 @@
 		- “Giving your page its Topic provides that opportunity to pause. What will you capture in this space? What’s its purpose?”
 		- “Once you’ve defined your Topic, write it at the top of the page. Now you’ve laid the foundation for what you want to build, but you can’t locate a building without its address. That address in your Bullet Journal is the page number, so be sure to add them as you go.”
 		- “The only time we don’t use a descriptive Topic is for our Daily Log (this page ). It’s a catchall for our thoughts, so the daily Topic is simply the date, formatted as month/date/day.”
-	-
+	- BULLETS
+		- “If Rapid Logging is the language the Bullet Journal is written in, Bullets are the syntax. Once you’ve set up your Topic and page number, you capture your thoughts as short, objective sentences known as Bullets. Each Bullet is paired with a specific symbol to categorize your entry.”
+			- “Things that you need to do (Tasks)
+			- Your experiences (Events)
+			- Information you don’t want to forget (Notes)”
+		- “During the day, these symbols allow you to quickly capture and contextualize your thoughts in real time. Later on, they make locating specific content much easier as you scan through your pages.”
 		-
 	-
