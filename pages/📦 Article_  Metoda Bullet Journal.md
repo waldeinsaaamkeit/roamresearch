@@ -1,0 +1,5 @@
+- **Type**: #📦Projects
+- **Summary**:
+- **Related Notes and Sources**: [[📘The Bullet Journal Method]]
+- **Outline**:
+-

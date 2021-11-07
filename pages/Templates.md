@@ -1,0 +1,4 @@
+- [[Project Note]]
+- [[Permanent Note]]
+- [[Reference Note]]
+- [[Literature Note]]
