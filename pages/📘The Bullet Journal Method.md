@@ -43,5 +43,59 @@
 			- Your experiences (Events)
 			- Information you don’t want to forget (Notes)”
 		- “During the day, these symbols allow you to quickly capture and contextualize your thoughts in real time. Later on, they make locating specific content much easier as you scan through your pages.”
+	- TASKS
+		- Tasks can have five different states:
+			-
+			  * **Tasks**: Entries that require you to take action.
+			- X **Completed Tasks**: Action has been completed.
+			- >**Migrated Tasks**: Tasks that have been moved forward (hence the right arrow) into your next Monthly Log or into a specific Collection.
+			- < **Scheduled Tasks**: A Task tied to a date that falls outside of the current month and is therefore moved backward (hence the left arrow) into the Future Log
+			- **Irrelevant Tasks**: Sometimes the things we task ourselves with end up not mattering anymore. Their meaning simply expires or circumstances change. If it no longer matters, then it’s a distraction. Strike it off your list. One less thing to worry about.
+		- **Subtasks and Master Tasks**
+			- Some Tasks require multiple steps to complete. These dependencies—or Subtasks—can be listed by simply indenting them directly below their Master Task.
+			- TIP: When you notice a Master Task spawning a lot of Subtasks, it can indicate that this Task is growing into a project. If that’s the case, you may want to turn this nested list into its own Collection.  If you notice that a Task is turning into a project, but you don’t have time at that moment to set up a new Collection, just log a Task to remind you to set one up later: “     Create Hawaii Vacation Collection.”
+	- EVENTS
+		- Events—represented by the “º” bullet—are experience-related entries that can either be scheduled preemptively (for example, “Charlie’s birthday party”) or logged after they occur (for example, “Signed the lease. Yay!”).
+		- We may finish our year feeling that not much of note really happened—maybe we didn’t take that big Hawaii trip or get the promotion we’d hoped for, or maybe we thought we’d be further along in our apartment hunt than we are. Leafing through our Bullet Journal can help correct this perspective: There were celebrations, projects completed, fitness milestones achieved, clean bills of health conferred, children and pets doing adorable things, soulful talks with friends, kids, parents, or spouses, and on and on.
+		- Our memories are unreliable. . Studies suggest that our recollection of how we felt can greatly differ from the way an experience actually made us feel. We can remember wonderful events in a negative way, and negative events in a positive way.
+		- It’s important to keep an accurate record of how things actually happened, because we often make decisions based on our past experiences. If we operate entirely on memory, we’re apt to repeat our mistakes by fooling ourselves into believing that something had an effect it actually did not. Good or bad, big or small, jot it down. Over the days, months, and years, they will form a pretty accurate roadmap of your life. Understanding how we got to where we are today will allow us to make more informed decisions as we plot our course forward.
+		- TIPS
+			- I recommend unpacking experiences as soon as possible after the Event, so the details are fresh and accurate. The Daily Reflection (this page ) works well toward this end.
+			- Events that need to be scheduled on specific dates that fall outside of the current month are added to the Future Log (this page ). Like birthdays, meetings, and dinners.
+			- For those of you who enjoy writing, long-form or expressive journaling (this page ), you can nest Note bullets (this page ) under an Event bullet if there are important/interesting details that you want to capture about an experience for later use. Again, keep it brief:
+	- NOTES
+		- Represented with the “– ” dash, Notes include facts, ideas, thoughts, and observations. They log information you want to remember that isn’t immediately or necessarily actionable. This type of bullet works well for meetings, lectures, and classrooms...
+		- By keeping your Notes short, you’re forced to distill information down to the essential. The more content you try to capture during a lecture or a meeting, the less you’re thinking about what’s being said.
+		- One simple way to summarize all these tips is this: Keep your future self in mind. Your Notes will be useless if they can’t be deciphered in a week, month, or year from now. Do your future self a kindness and don’t sacrifice clarity for brevity. It will keep your Bullet Journal valuable for years to come.
+	- SIGNIFIERS AND CUSTOM BULLETS
+		- **Signifiers**
+			- These are symbols used to highlight specific entries to give them additional context. Signifiers are placed in front of bullets so they stick out from the rest of your list, making them easy for the scanning eye to locate.
+			- **Priority**: Represented by “*” asterisk. Used to mark a bullet as important and is most commonly paired with the Task Bullet. Use this sparingly. If everything is a priority, nothing is.
+			- **Inspiration**: Represented by “!” exclamation point. Most commonly paired with a Note. Great ideas, personal mantras, and genius insights will never be misplaced again!
+		- **Custom Bullets**
+			- TIP: Keep Custom Bullets and Signifiers to an absolute minimum. Rapid Logging tries to remove as much friction as possible from capturing information. The more you invent, the more complex it is, and the slower you will become.
+		- **Rapid Logging Summary**
+			- Rapid Logging, a quick and effective way to capture and sort your thoughts into Tasks, Events, and Notes. You contain those thoughts with a Topic to help you set your intention and a page number to easily locate it again later.
+	- COLLECTIONS
+		- Collections are interchangeable, reusable, and customizable.
+		- In the following pages you’ll learn about the four core Collections: the Daily Log, the Monthly Log, the Future Log, and the one Collection to rule them all, the Index.
+	- THE DAILY LOG
+		- The Daily Log is the workhorse of your Bullet Journal.
+		- To set up your Daily Log, all you have to do is add the day’s date and the page number. That’s it! With your container in place, you’re all set to Rapid Log (this page ) your Tasks, Events, and Notes as they occur throughout the day. The idea is to be consistently unburdening your mind.
+		- Your Daily Log is more than a simple to-do list. Yes, it serves to capture your responsibilities, but it also helps you document your experiences. It’s a safe place where your mind is free to express itself, judgment-free and always happy to welcome your thoughts as they bubble up throughout the day.
+		- If you don’t fill a page, add the next date wherever you left off and you’re good to go.
+	- **THE MONTHLY LOG**
+		- This Collection helps you step back and take a breath before diving into the coming month. It offers a bird’s-eye view of the things you have to do, as well as your available time. If each Bullet Journal is another volume in the story of your life, then the Monthly Log marks a new chapter.
+		- The Monthly Log is set up on a spread of facing pages. The left page will be your Calendar page; the right page will be your Tasks page. The Topic of this Collection is the name of the month, and we add it to both pages of the spread.
+		- **Calendar Page**
+			- On the Calendar page, list the dates of that month down the left edge of the page, followed by the first letter of the corresponding day of the week.
+			- I prefer to log Events only after they happen. That way, the Monthly Log’s Calendar page acts like a timeline.
+			- TIP: Keep your entries as short as possible, as the Monthly Log is designed for reference only.
+			- TIP: For some added clarity, you can add lines dividing the weeks.
+		- Tasks Page (or Mental Inventory)
+			- The Tasks page of your Monthly Log will serve as your ongoing Mental Inventory page. Give yourself permission to sit for as long as it takes to offload the action items that have been swimming around your head. What matters this month? What are the priorities?
+	- **THE FUTURE LOG**
+		- The Future Log stores entries that have specific dates that fall outside of the current month. So if it’s September, and you’ve got a project with a deadline of, say, December 15, shwoooops , into the Future Log it goes.
+		- So how does this work in practice? During the day, just continue to write everything down in your Daily Log, even future Tasks. Again, the Daily Log is there to prevent us from having to waste time thinking about where to write things down. It’s a catchall, designed to hold our thoughts until we’re ready to sort them out. When that time comes—like during Daily Reflection — you’ll transfer any bullets with a future date from your Daily Log into your Future Log. Once you do, be sure to mark the entry as scheduled “<” in your Daily Log. This way you will know that it’s been addressed, so you can temporarily offload it from your mind.
+		- When you’re setting up a new Monthly Log (this page ), be sure to scan your Future Log for any items in the queue that are ready now. If so, migrate (this page ) those items from your Future Log into your Monthly Log’s Tasks page. Be sure to mark it as migrated in your Future Log.
 		-
-	-
