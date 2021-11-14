@@ -1,0 +1,19 @@
+- **Type**: #📘Reference
+- **Source**: https://hyls.info/page22344298.html?utm_source=wake_up
+- **Author**:
+- **Summary**:
+- **Highlights**:
+	- **Зачем нужно рано вставать**
+		- сон — это ⅓ жизни, которая очень сильно влияет на другие ⅔ жизни.
+		- **Мы зависимы от ритмов Солнца**
+			- Dacă stilul nostru de viață nu corespune cu cel al soarelui, organismul începe să funcționeze diferit.
+			- În trecut, omul s-a format și s-a orientat după ritmul soarelui, și anume după ritmul lui sunt fixate ritmurile noastre circadiane:
+				- Când trebuie să se producă Cortizol, ca să te trezești
+				- Când trebuie să se producă Melatonină, ca să adormi.
+		- **Как правильно спать и что это вообще значит?**
+			- Cercetătorii științifici ne sfătuiesc că trebuie să ne trezim devreme și să ne culcăm devreme. Acest stil de viață permite elaborarea corectă a hormonilor, serotonină, dopamină, cortizol, melatonină și alții.
+			- „Early bird” și „Night owl” nu sunt premise biologice, ci obișnuințe: să te trezești devreme sau târziu, să dormi, cât ne este comod să dormim sau cât ne împun circumstanțele.
+		- **Как тогда начать рано вставать?**
+			- Metoda pe care o să o încercăm, implică pur și simplu să începem să ne culcăm mai devreme. Atât.
+			- Pe tot parcusul maratonului o să ne concentrăm pe calitatea somnului și culcatul devreme.
+-
