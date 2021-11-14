@@ -3,7 +3,7 @@
 - **Author**:
 - **Summary**:
 - **Highlights**:
-	- **Зачем нужно рано вставать**
+	- ==**Зачем нужно рано вставать**==
 		- сон — это ⅓ жизни, которая очень сильно влияет на другие ⅔ жизни.
 		- **Мы зависимы от ритмов Солнца**
 			- Dacă stilul nostru de viață nu corespune cu cel al soarelui, organismul începe să funcționeze diferit.
@@ -16,4 +16,53 @@
 		- **Как тогда начать рано вставать?**
 			- Metoda pe care o să o încercăm, implică pur și simplu să începem să ne culcăm mai devreme. Atât.
 			- Pe tot parcusul maratonului o să ne concentrăm pe calitatea somnului și culcatul devreme.
--
+	- **==Искусство маленьких шагов==**
+		- Motive pentru care ne este greu să mergem la culcare la timp
+			- Lumina artificială
+				- Oamenii au inventat lumina artificială și de aceea ritmurile noastre nu mai sunt legate de soare. Noi vedem lumină și la 7am, și la 12pm - pentru noi ora a încetat să mai aibă vreo însemnătate. Organismul nostru lucrează pe cicluri, iar lumina îl încurcă foarte mult pentru că primește semnale mixte, nu i-e clar când trebuie să doarmă sau când este vremea de trezire.
+				- Din acest motiv, corpul nu poate să se pregătească de somn și chiar după 8,9 sau chiar 10 ore de somn, somnul nu o să fie neapărat calitativ, și nu o să te trezești sătul de somn.
+			- Capcanele de dopamină
+				- Atunci când seara, după o zi care nu ți-a adus fericire, ți-e greu să te desparți de telefon pentru că ești în așteptare de vreun sentiment, că ai impresia că următorul post te va face să râzi, următorul video ți-ar aduce ceva important.
+	- 3 reguli pentru un somn calitativ
+		- Regula 1 regularitatea hormonului de Cortizol
+			- Cortizolul ne ajută să ne trezim dimineața. Atunci când dormim, treptat nivelul acestuia începe să crească, crește tensiunea, se mărește temperatura corpului și într-un moment ne trezim. Acest punct se întâmplă anume dimineața, trezindu-vă la viață, începe să scadă. Iar seara, când trebuie să mergi la culcare, nivelul acestui hormon este cel mai redus.
+			- Acest grafic trebuie să fie regular. Dacă ne culcăm la diferite ore, cortizolul nu se mai ține în grafic și pe timp de zi se elaborează un nivel neclar al acestui hormon.
+		- Regula 2 regularitatea hormonului de Melatonină
+			- Efectele molatoninei este opus cu cel al cortizolului. El coboară temperatura, tensiunea, nivelul de zahăr în sânge și treptat, adormiți.
+			- Melatonina se elaborează atunci când în jur este întuneric, este destul ca o sursă de lumină să cadă pe retina ochilui, hormonul se dereglează, și somnul nu vine.
+			- De aceea după ce stai pe telefon noaptea, poți să adormi greu și să te învârți mult,  organismului nu-i ajunge puterea melatoninei.
+		- Regula 3 arta pașilor mici
+			- Dacă te culci, de exemplu, la 1:00pm, schimbați ora de somn în fiecare zi cu 15 minute până ajungi la ora de culcare pe care o dorești.
+		-
+	- ==**Ritualul de seară**==
+		- Ca să adormi repede și calitativ, trebuie să ne organizăm astfel seara, încât să se elaboreze bine melatonina, însă cortizolul, invers, să coboare.
+		- **Ritualul de seară: principii care vă vor ajuta să adormiți ușor.**
+			- Puneți deoparte gadget-urile cu o oră înainte de somn.
+			  collapsed:: true
+				- O oră, cel puțin.
+				- În acest timp, pe lângă lumina gadget-urilor, eliminați și becurile sau orice altă sursă de lumină.
+			- Fă un duș fierbinte. 
+			  collapsed:: true
+				- Sunt multe beneficii pe care le oferă un duș fierbine înainte de somn: relaxează mușchii, sistemul nervos și conștiința. După un duș fierbine, corpul începe procesul de răcire, atunci când temperatura corpului scade, corpul înțelege că e timpul să meargă la somn.
+			- Eliberează-ți mintea de gândurile netrebuincioase
+			  collapsed:: true
+				- Pe timp de zi, poți aduna foarte multe cicluri neîncheiate
+				- Un ciclu neîncheiat este o acțiune care nu și-a găsit rezolvarea, o conversație pe care o tot învârtiți în minte, to do list-ul de mâine pe care mâine nu trebuie să-l uiți.
+				- Toate acestea se adună și nu-ți permit să dormi. În acest caz, pur și simplu luați și scriți tot ce nu vă dă pace. Atunci când vă lăsați gândurile pe hârtie, creierul se relaxează și încetăm să mai învârtim la nesfârșit un gând care nu ne dă pace.
+			- Citește literatură pentru suflet
+			  collapsed:: true
+				- Dacă după aceste 3 acțiuni încă vă mai rămâne timp, citește vreo carte pe suport de hârtie care să fie ușoară de înțeles.
+	- **==Alimentația contează==**
+		- Sunt cercetări științifice care arată că mâncarea consumată mai târziu de 3-4 ore până la somn, înrăutățește cu mult calitatea somnului.
+		- Este important ca, nu doar să nu mâncăm cu 3-4 ore înainte de somn, ci în genral să nu mâncăm după o anumită oră. Anume această abordare o să îți dea o stare mai ușoară la trezire.
+		- Ce spune știința?
+			- Cu cât este mai mic nivelul de glicemie în sânge, cu atât este mai mare nivelul somatotropinului.
+				- somatotropinul este hormonul creșterii și a regenerării. dacă mănânci înainte de somn, mai ales ceva dulce, îți va rămâne mult zahăr în sânge, iar somatotropin puțin.
+				- Ca glicemia să fie scăzută, iar somatotropinul ridicat, trebuie să încetați să mâncați cât mai devreme posibil înainte de culcare.
+			- Sistemul digestiv nu funcționează bine noaptea.
+				- Digestia se petrece cel mai bine aproximativ la ora 12:00am, noaptea sistemul digestiv trebuie să se odihnească și să se pregătească pentru o nouă zi.
+				- Dacă îngrelați stomacul pe noapte, organismul o va digera, însă ca efect va fi mare nivelul de toxine, rețineri de apă, iar dimineața te trezești distrus.
+			- Cu cât mai puțin îngrelezi organismul cu mâncare în perioada de recuperare, cu atât mai puțină energie îi va trebui pentru recuperare
+				- În acest fel, dacă nu vei mânca pe seară, te vei simți odihnit în mai puține ore de somn, te vei trezi mai bine și mai devreme, ca să te alimentezi anume de dimineață.
+				- Cina de preferabil să nu fie din proteine(carne, pește, boboase) ci din legume(salată proaspătă)
+		-
