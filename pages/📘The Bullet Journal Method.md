@@ -102,5 +102,76 @@
 		- ![2021_11_08_image.png](https://cdn.logseq.com/%2Fe2d4e888-ccea-4d1c-985f-5d3d6cf7646a32db225b-99f6-40ab-8667-b6d4f991c34a2021_11_08_image.png?Expires=4789970676&Signature=Ys39Nwb~y6O53WpgP~97PJYM7uHTUjnLjyVxuoQQdFOqrorFhbIKBdLx7mJ~GHFOiA1P8j7hpg3vzqrN7nXbvlFgiU2tFgD31yoPzGRJ1lOm7JygajfLb-tt2xABRH-t8zpvyYiu9pugOs4SfAD85R1ZWG3f5FGCBtXr8siWvgfAL8mdUxCMgnF8S8Dng0N4m~5BBVcIm3ZGlaT5l87T9R6zCQvH-MqoYRaTVnLSR4JmW-6d7P72Ka7Ga1JVBH~UN-ngJpIj-7M2vqnF1o70DC2Y~TkAvUaxBvV~mXe~stPZpMZCrEWbk7qP3QKjUrY89IJQqV7APph6JuvLIB2MRg__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 		- ![2021_11_08_image.png](https://cdn.logseq.com/%2Fe2d4e888-ccea-4d1c-985f-5d3d6cf7646a890ec606-4c8e-4296-a065-badd2b6463052021_11_08_image.png?Expires=4789970717&Signature=GFYBH5AWNNJWivHDQT2qBm-TqOCVVRu8YUS0~HA8XkpUfp0nB9Ltne0frXruydKC7xpuBqL0ILfpbl7GstC7kIepBoNY52TxHced~Wyj4Dx5VvGv8RklFcKxV~9qdXxD7jT74lzMIWE1voCsQBj2DXsphTP2PVXfP3hjZnz~Qh5Z1wOBk~rB4DxnMuDyI3u74NPDCfHRwImiMIIKZX0Lm1WPaskO5BkI6s4bPYo-qdMFh7ZjrbnJ9XlWiE1hvg7VesuKU9gcBMUkNZBwKkpwYBE6OyQcwh3Hf6bBqPywj644IGBfES011Ql7YnRgh~1d8CWnPS~D8ySUs8oAJ1rQMQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 		-
-	- 1:55:20 Index
+	- INDEX
+		- The Index provides an easy way to find your thoughts days, months, or years after entrusting them to your notebook.
+		- You can think of the Index as a container that stores all of your other Collections.
+		- I recommend allocating two spreads—four facing pages—for your Index.
+		- **Subcollections**
+			- When you’re working on a project with a lot of moving parts, each of those parts deserves its own separate Subcollection.
+			- Example:
+		- **Dedicated Index**
+			- Some Bullet Journals focus on very specific subject matter. If you’re a student, it could be your current curriculum.
+			- In these cases, you can use an alternate approach known as the Dedicated Index. It works much the same way as the standard Index, except that each Index page is dedicated to one subject only.
+			- So if you were taking classes in science, English, math, and history, you would set up an Index page for each. For example, if you were taking a class in American History, one page in your Index would have the Topic “American History.” Each section of the course would define a Master Collection, and each subject within the section would be the Subcollection.
+		- **Threading**
+			- Threading is used in code to point one piece of code toward a related piece of code. In the Bullet Journal, we use the same concept to point to previous or later instances of related content within our notebook.
+			- Threading is used in code to point one piece of code toward a related piece of code. In the Bullet Journal, we use the same concept to point to previous or later instances of related content within our notebook.
+			- To thread these instances together, all you have to do is add the page number of one instance next to the page numbers of the other instances.
+			- Example:
+			  collapsed:: true
+				- ![2021_11_16_image1693.jpg](https://cdn.logseq.com/%2Fe2d4e888-ccea-4d1c-985f-5d3d6cf7646a9b2835fd-ffbf-4c92-ad7e-159ea72a5efc2021_11_16_image1693.jpg?Expires=4790670599&Signature=iEzKZL7-O-rY99PecBvvINuU8AgoXhhsqZvsOCL~sWdysA4GjGEz2mfpDv5~UW89p0-eTfF8P95FppoammQ6vTaa31Qpn0ZRQVgdqPlQXYGLXD26MpjNnpDajxA~EAfouZDvSado9earcNPqZAuAZVu3CIYP7a74-4Ryq46SHhW2IhWN1vOjInwLhuK2pA4V17HLjXtgDv6p-K63e5gOD8roP3r1tuIrg2exzFC4-CfOnldQOSgOJhozHKoZQmVVv5tuFKyRSdXqvUYGifAeBXeKe0PSQFvudFJOiHfzh3rPvgKykmNhkulM42YTVHl4HYxa6DznHVqogFg9Nek7kA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+		- Over time your Index will double as a “table of context.” It provides you with a bird’s-eye view of how you’re investing your time and energy. It’s a map of all the things you’re saying yes to. Remember, for everything you say yes to, you’re also saying no to something else. Yes means work, it means sacrifice, it means investing time into one thing that you can no longer invest into another.
+	- MIGRATION
+		- Productivity is about getting more done by working on fewer things.
+		- During Migration, we transfer content from one place in our Bullet Journal to another by rewriting it.  Because it takes a little bit more time to rewrite things by hand, there’s a built-in incentive to pause and consider each candidate.
+		- **Monthly Migration**
+			- The main Migration happens at the end of every month, when you’re ready to set up a new Monthly Log
+			- Once that’s done, slowly scan all of the pages of the past month, reviewing the state of your Tasks.
+			- Chances are you haven’t completed them all. This is totally normal. Transform any guilt into curiosity by asking yourself why each Task might still be incomplete. Does it matter? Is it vital? What would happen if you didn’t do it?
+				- If you realize an incomplete Task has become irrelevant, strike it out.
+				- If a Task remains relevant, if it still adds value to your life, then migrate it.
+					- Transcribe the open Task to the Tasks page of your new Monthly Log (this page ). Then mark the old entry as migrated “>”.
+					- Transcribe the Task into a Custom Collection (this page ). Then mark the old entry as migrated “>”.
+					- If the Task is date-specific and falls outside of the current month—migrate it into your Future Log (this page ). Then mark it as scheduled “<”.
+					- Example
+						- ![2021_11_16_image1726.jpg](https://cdn.logseq.com/%2Fe2d4e888-ccea-4d1c-985f-5d3d6cf7646a4deeae7d-1248-42fd-aa1f-8ab07b9b52b02021_11_16_image1726.jpg?Expires=4790671237&Signature=JUCJlowQybNlyiTklp432U37Fsxzb9uyslmAmMy3BqlEqsIAYCOMmtb9ahTfsm11u2oZRWnhixk8kDbK70EwfByk2k9figmyVUhVUgV2ihwzI4yudg238bz-qIZIO~xoKbDUKfFIMN3P~mfgvh1OiYgaTJ5WJmNjsxo2NCJBgvsLKG9F-JuSET4FIWMFxsO2SAuvzcGnKc861xLJqhsrZ~h8~bsC~dsoYCi7RQWpkd1whaI9FlDSfy5EDg0PBioMYe4HC9FYve~~Pf1G63q0nW~ryUA52woehjo2Eu3k2zZay0Gm8YIlhVgKMByYW03sv4nsWhyZr0esP8-FyJEraw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+						-
+			- TIPS
+				- When setting up your new Monthly Log, be sure to check your Future Log. Are any tasks or events queued up for the coming month? If so, migrate those entries from your Future Log into your new Monthly Log’s Tasks or Calendar page.
+		- **Yearly/Notebook Migration**
+			- The new year is as good a time as any to set up a new notebook, because it’s an unavoidable cultural milestone, both literally and metaphorically. It delineates the old from the new, what has been from what could be.
+			- When you get to the end of a notebook, or a year, review your Index. Take stock of all the Collections that you’ve accumulated. There you’ll find a fairly accurate account of how you’ve been spending your time and energy. Now’s the time to make the hard call. Do these Collections (and their open Tasks) get to accompany you into your next Bullet Journal?
+			- We honor the lessons we’ve learned by applying them to the next phase of our life. Big or small, migrate only the content and techniques that have proven themselves to be valuable, nothing else. A new notebook is not about starting over—it’s about leveling up.
+			-
+		- **Migrating Your Mental Inventory**
+			- To get a taste of Migration, you can use the Mental Inventory that you created earlier to populate your notebook.
+			- Make sure everything you listed is worth the time and energy it will take to rewrite it; to filter out the meaningful from the meaningless.
+			- Now decide what things you need to work on over the following month. Those items will go into the Monthly Log’s Tasks page. Future Tasks and Events will go into your Future Log. Related items, like books you want to read, will be organized into their own Custom Collection.
+	- SET UP YOUR BULLET JOURNAL
+		- SET UP THE INDEX
+			- Number pages 1-4
+			- Title Pages "Index"
+				- Only add things to the Index that have content! No empty Collections!
+			- ![2021_11_16_image1772.jpg](https://cdn.logseq.com/%2Fe2d4e888-ccea-4d1c-985f-5d3d6cf7646a56db79f4-b014-40c7-9e1c-a749847d0ece2021_11_16_image1772.jpg?Expires=4790672147&Signature=hxIGTkgZz9ATrpcOYWfukNeJKjVUQlcvlppgpx18tkDMd~QXpvSvl5aDvoSlT1nskvvR8gop82GXT5zhYWCV8djKxp2nsXiaV-~n6WX66mWTHnpIuDB3VVaIykib3sTWF9ngAp8pJoQoafWQpKJUyrKNQ3RHDaQP1cNzQhEJBJ3yLQgUjo3-I8v84NtcUY6h0yMckIvU15XtjowW9M9Mq-I4iq7GaQIfBk4GNx0NR9Feuvb~2ud4jENebPo1M-Stdy0ZbBL-8vP6y-A0n4q8LLIqG6MgInX8CMG1r1iU5DCbL8kRS~d-UWnE3B-eDCLXmLprhm7ydACQnlPfl~dkGA__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA){:height 434, :width 592}
+		- SET UP THE FUTURE LOG
+			- Number pages 5–8
+			- Divide page into 6 cells
+			- Label cells with next months
+			- Add Future Tasks and Events
+			- Add it to your Index
+			- ![2021_11_16_image1783.jpg](https://cdn.logseq.com/%2Fe2d4e888-ccea-4d1c-985f-5d3d6cf7646ae1d59efc-05b6-4e21-b6e9-bdcdf0158fd22021_11_16_image1783.jpg?Expires=4790672312&Signature=R5Bnto7AokHbPw5YIA69CTDllinJ0GYkSDP1OVcp4ydRpnFClcJUni6b~ujrtDR1yzxSEcb-mRHGad3U0WU-3pFwZTCJhpJCieINjv~Ykz9jMmI0soauWWa-gQVqm7FdRg7MfJnerCE4VQsIuFNfr9oWLxASgDs9H2yFKfIbg~hCv1EmhHAcyUMg9T6a~eLNHETlvZCcYW40kj5gsUX608byR5iBu6WuuN9lJyr3vY4m3vgUXd3mtXwXTRSjEu9941EzojAXi5~zIDrdeSZP262lmrkEChBOvtGRPz8jjMFrBlPvo9EKkLvsU5wgSzJizfnzW~YIaRQLfnF0mBXlBw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+		- SET UP THE MONTHLY LOG
+			- Number pages 9–10
+			- Title pages with current month
+			- List dates and monthly tasks
+			- Add “9–” to your Index
+			- ![2021_11_16_image1795.jpg](https://cdn.logseq.com/%2Fe2d4e888-ccea-4d1c-985f-5d3d6cf7646a262d6aff-a155-4ee7-83a8-d6b390b420c52021_11_16_image1795.jpg?Expires=4790672382&Signature=dTIb6sPgjN1X6rp9xv4uqAQq6R17Q3JWfmnyxRTVThG44yDyfw7N2gV3bUkzyH9z5y2SreMp1OueFQxf~As~pYqIveQgzsoTiLZWUHFS48qSq6k68F-53TP8RwvAwSjtSfG67APUHpX90I4ZONeXdVhKNLbn3iK~1ia4jW-AEnXAX5~lmtF7FoR-yrQnwolh7Eor-wwXk~QhksLK3GjTQw~dRZhMghZhxpqd-kqCK-qBL2g52rO7un0bGPDmuzcSqhNdBVh8Cz2RZFIBEGFkt4Ua3nhJmTcvXqY50Qzkcs6FdB-PYzAX80sotksCAp2lDmPxzTen5PzQ98C~bb01Mw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+		- SET UP THE DAILY LOG
+			- Add page number
+			- Add today’s date as the Topic
+			- Write down today’s Tasks
+				- Daily Logs don’t get Indexed
+			-
+		-
+	-
 	-
