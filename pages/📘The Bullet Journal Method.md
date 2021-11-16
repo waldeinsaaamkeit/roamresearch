@@ -171,7 +171,21 @@
 			- Add today’s date as the Topic
 			- Write down today’s Tasks
 				- Daily Logs don’t get Indexed
-			-
+			- ![2021_11_16_image1806.jpg](https://cdn.logseq.com/%2Fe2d4e888-ccea-4d1c-985f-5d3d6cf7646a61171609-c1c3-43a4-a09f-584eb082cb1b2021_11_16_image1806.jpg?Expires=4790672505&Signature=mIIlpxMyI0CCUJTy0CIiy0VPbZ~cDlDcb115sk2bBw8PlZmSJDrXRHcElExvH~1RNhOI~Ay1iCLyuMwUm~UvBH-MjBCibHxqpIPalGqcyB8qco96OY1Ae2tb4GuBt~FgLImKXBS0GHQ1FCS1ncHN0PD~gikPbhqVdY3~df1UqQETh~TI3vYoV7Ok1HUPceuoboqHZoZNmcrMaOpJbt4jVZUCl1hBtRGenw3j37cfKyehH03HtgfsxKU2cCQOx1~yMiada44cvz6Z1h1G6fzXzM9EmrVd6WxQ1TJnC44~bH30YBS8yW6t3FJ402ZzzdrwPNv5uwCptYFfahMDcREz8g__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+		- USING YOUR MENTAL INVENTORY(OPTIONAL)
+			- REVIEW MENTAL INVENTORY
+				- Cross out anything that isn’t vital or important.
+				- Identify related content (i.e., goals, projects, shopping lists, etc.) to create Custom Collections
+			- MIGRATE MENTAL INVENTORY
+				- Move Future items into the Future Log
+				- Migrate Items into Monthly Log
+				- Prioritize Monthly Log
+				- Migrate Priorities into your Daily Log
+				- Migrate any additional items into Custom Collections
+			- ![2021_11_16_image1833.jpg](https://cdn.logseq.com/%2Fe2d4e888-ccea-4d1c-985f-5d3d6cf7646a4ed0b768-2da0-4529-844d-188f8bba528d2021_11_16_image1833.jpg?Expires=4790672627&Signature=G1ATfgqIbzdsdZA11bi5ZM6lBcw-ZE2P2S05iHdSUe28ZvgZymMAdDbiB9le4Q89Je5h6MbuniQiKaqPM8EGURrX51jEV5qNBBiyB4c9L1ixdCEaF~8SaBW-PzPBJ~98CMHw84O~bXa4psdUtbrvOcauZlyT2iG7EBGMwzFWZrEzsHAR9H-4P8REjB5DCdQ5mrdI4~650HiGb3NZBzNsW1vZo~0HSLAHPkEM~mHxpgrTP-Ptb2kuZcHAD~rwFMfBGjkmugNLcSxbo7QjWtJGKdPh2zHVsvQXsgzSE4eLd9rQAIRzwCQ48lk5BvdeWkTWZ5oL8vl~N2Sz8mEWRLXDHw__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
+		- CUSTOM COLLECTIONS
+			- We’ll cover these at length in Part IV, but they’re used to store related content like goals, projects, or Focused lists. Set them up the same way (with topics and page numbers) to add them to your Index.
+				- ![2021_11_16_image1842.jpg](https://cdn.logseq.com/%2Fe2d4e888-ccea-4d1c-985f-5d3d6cf7646a11e8ca36-3bdd-4b8f-b96a-4414ac46441e2021_11_16_image1842.jpg?Expires=4790672726&Signature=iT415tw2sl0rfqLIjarOZRex-~UD-zP~qD-ykF7YLayr8JdWULQH9IEv17QkXR5xC4ag0r9IISm7q8bHS7CNnCECuktYRXo3HcvgD7-yjGYgNIl1iUlEzt6trKiqrAqQPwbLZHHyiMZK0GYYXHDyfWhy8zvxrO6uey6VJHq745zwvOuwrEpJuKy0l5JpGuz-mEN0jO-eEsShdk80hTnTggaFrvkURRtPtSc~cRm3NY9Ruk8~NuUoot5H-iJ33g2ebpfIDrW7GUyOfZA1rbxGRXLaKW3lzRG2SeSkwdCElogv7o9BDSgIROrVuCIDtmbbFt9aN09VVBT-6bwHxBIcOQ__&Key-Pair-Id=APKAJE5CCD6X7MP6PTEA)
 		-
 	-
 	-
